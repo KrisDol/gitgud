@@ -1,2 +1,2 @@
-# gitgud
-A simple project to contain temporary projects
+# MatrixHandler
+A simple project to create C++ application for matrix calculations.
